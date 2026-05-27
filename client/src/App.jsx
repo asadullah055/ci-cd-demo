@@ -32,6 +32,10 @@ function App() {
       title: 'Team approvals',
       text: 'Keep QA, DevOps, and product decisions inside the same workflow.',
     },
+    {
+      title: 'Team approvals2',
+      text: 'Keep QA, DevOps, and product decisions inside the same workflow.',
+    },
   ]
 
 
