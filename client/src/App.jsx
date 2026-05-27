@@ -25,7 +25,7 @@ function App() {
       text: 'Track every stage from branch to production in one focused view.',
     },
     {
-      title: 'Instant rollback',
+      title: 'Instant rollback2',
       text: 'Move back to the last stable version quickly when a release needs it.',
     },
     {
