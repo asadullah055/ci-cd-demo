@@ -3,7 +3,7 @@ services:
     build: ./server
     container_name: express-server
     ports:
-      - "4000:4000"
+      - "4002:4000"
     networks:
       - fullstack-net
     restart: unless-stopped
